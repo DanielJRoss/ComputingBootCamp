@@ -13,18 +13,16 @@ GitHub is a popular git repository hosting service. It has many helpful features
 
 
 ## Lecture
-On April 30, 2021 we had a GitHub Tutorial by Prof Lundrigan. The video is embedded below
+Professor Lundrigan's April 30, 2021 GitHub tutorial:
 
 <iframe width="800" height="600" allow="fullscreen" src="https://www.youtube.com/embed/Z8nMX36x_GU"> </iframe>
 
 ## Follow-Up Activities
 
-Here are a few ideas for follow-up activities:
-
-- Start a new repo on GitHub and explore the features
-
 {% include quizzes.html id=10 %}
 
+Here are a few ideas for follow-up activities:
+- Start a new repo on GitHub and explore the features
 - Fork an interesting repo
 - Submit a pull request to an open-source project
 
